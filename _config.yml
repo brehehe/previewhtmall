@@ -1,0 +1,44 @@
+## GOOD https://blog.webjeda.com/jekyll-categories/
+## https://agmstudio.io/themes/material-style/2.0.2/
+
+title: "Hi Tech Mall Preview"
+description: "Belanja IT TECH CENTER Terbesar se Asia Tenggara"
+url: https://previewhitechmall.surabaya-ad.com
+# url: http://127.0.0.1:4000
+loading_teks: Hi Tech Mall Preview
+stylever: 23
+
+sosmed_facebook: https://www.facebook.com/surabayaad
+sosmed_twitter: https://twitter.com/Surabaya_Ad
+sosmed_instagram: https://www.instagram.com/surabayaad/
+
+facebook: https://www.facebook.com/surabayaad/
+twitter: 
+  username: Surabaya_Ad
+
+social:
+  name: Surabaya AD
+  links:
+    - https://www.facebook.com/surabayaad
+    - https://twitter.com/Surabaya_Ad
+    - https://www.instagram.com/surabayaad/
+    - https://plus.google.com/u/2/113355031675278304715
+
+author:
+  twitter: Surabaya_Ad
+  facebook: surabayaad
+  instagram: surabayaad
+
+lang: id_ID
+
+collections:
+  clients:
+    output: true
+    permalink: /:collection/:name
+
+plugins:
+  - jekyll-avatar
+  - jekyll-redirect-from
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
